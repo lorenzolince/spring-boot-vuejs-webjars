@@ -1,0 +1,13 @@
+<template>
+    <div>
+        <b-embed
+            type="iframe"
+            aspect="16by9"
+            src="/frontend2"
+            allowfullscreen
+            >
+        </b-embed>
+    </div>
+</template>
+<script></script>
+<style></style>
